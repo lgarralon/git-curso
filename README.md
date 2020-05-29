@@ -1,0 +1,3 @@
+# git-curso
+Proyecto del curso git con fatz
+Explicacion del proyecto, bla, bla...
